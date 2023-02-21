@@ -1,5 +1,4 @@
 # Pengalaman-Belajar
-==
 Repository ini berisi tentang riwayat belajar di kelas dasar git dan github Dicoding Academy
 
 21 Februari 2023
